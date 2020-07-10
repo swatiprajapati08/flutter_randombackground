@@ -2,6 +2,20 @@
 
 A new Flutter application.
 
+# Learn 
+Gesture Detector 
+
+How to apply Random color.
+
+
+# RUN
+Clone the Respository 
+
+And simply use Run button or write Flutter run on terminal.
+
+![untitled](https://user-images.githubusercontent.com/42577922/87155119-03c22100-c2d8-11ea-8a28-e72ad2b1e10b.gif)
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
